@@ -39,7 +39,7 @@ The notebook also defines a `SimpleRNN` version of the same architecture for com
 ## Run it locally
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/AzlanFaisalRaj/Next-word-prediction.git)
 cd D:\DL Projects\Next word prediction
 pip install streamlit tensorflow numpy
 streamlit run app.py
