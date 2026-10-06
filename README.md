@@ -3,6 +3,8 @@
 A next-word predictor trained on famous quotes, served through a Streamlit app. Type the start of a sentence and the model returns the most likely next word, the top alternatives with their probabilities, and an optional multi-word continuation.
 
 <!-- Add a screenshot or GIF here: ![demo](assets/demo.png) -->
+<img width="950" height="434" alt="image" src="https://github.com/user-attachments/assets/6773e96a-c422-446a-b986-9aa66451662b" />
+
 
 ## What it does
 
@@ -38,7 +40,7 @@ The notebook also defines a `SimpleRNN` version of the same architecture for com
 
 ```bash
 git clone <your-repo-url>
-cd <D:\DL Projects\Next word prediction>
+cd D:\DL Projects\Next word prediction
 pip install streamlit tensorflow numpy
 streamlit run app.py
 ```
